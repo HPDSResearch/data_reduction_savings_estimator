@@ -31,9 +31,14 @@ the current code is single threaded for simplicity and also minimizing the CPU u
 This data reduction estimator was designed and developped by Mahdi Bahrami and Mohammadamin Ajdari at HPDS Research. It was part of a bigger project which finished in early 2022. As of Feb 2023, we decided to publicly release this code.
 
 # Citation
-If you use this code, please cite this repository in the following way:
+If you use this code, please cite this repository by including the following information:
 
-HPDS Research, Repository of Data Reduction Savings Estimator, "https://github.com/HPDSResearch/data_reduction_savings_estimator", <Last Update Year>
+Repository author: HPDS Research
+Title: Repository of Data Reduction Savings Estimator
+URL: "https://github.com/HPDSResearch/data_reduction_savings_estimator"
+Year: Last update year (e.g., 2023)
+
+
 
 # LICENSING and USAGE
 Please refer to USAGE file. A very brief description is as follows:
