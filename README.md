@@ -34,8 +34,11 @@ This data reduction estimator was designed and developped by Mahdi Bahrami and M
 If you use this code, please cite this repository by including the following information:
 
 Repository author: HPDS Research
+
 Title: Repository of Data Reduction Savings Estimator
+
 URL: "https://github.com/HPDSResearch/data_reduction_savings_estimator"
+
 Year: Last update year (e.g., 2023)
 
 
