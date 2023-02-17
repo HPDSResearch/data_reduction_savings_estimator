@@ -28,11 +28,11 @@ the current code is single threaded for simplicity and also minimizing the CPU u
 
 
 # Developers Info
-This dedup estimator was designed and developped by Mahdi Bahrami and Mohammadamin Ajdari at HPDS Research. It was part of a bigger project which finished in early 2022. As of Feb 2023, we decided to publicly release this code.
+This data reduction estimator was designed and developped by Mahdi Bahrami and Mohammadamin Ajdari at HPDS Research. It was part of a bigger project which finished in early 2022. As of Feb 2023, we decided to publicly release this code.
 
 # Citation
 If you use this code, please cite this repository in the following way:
-HPDS Research, Repository of Data Reduction Estimator, ""
+HPDS Research, Repository of Data Reduction Estimator, "https://github.com/HPDSResearch/data_reduction_savings_estimator", <Last Update Year>
 
 # LICENSING and USAGE
 Please refer to USAGE file. A very brief description is as follows:
