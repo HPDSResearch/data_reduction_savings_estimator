@@ -2,7 +2,7 @@
 A tool to estimate data reduction savings
 
 # Motivation behind developing our data reduction estimator
-   Data reduction (usually deduplication and compression) is an important feature in enterprise systems. Considering the high system overheads of inline data reduction, estimating the amount of data reducability provides a strong insight on whether to enable deduplication + compression, deduplication-only, compression-only or none of them! There are a couple of codes that estimate data reduction at different layers. However, with two goals on mind, as part of a bigger project in 2021 at HPDS Research, we decided to prepare our own data reduction estimator to be: (1) easily expandable and modifiable code, (2) fast, and minimal system resource usage. 
+   Data reduction (usually deduplication and compression) is an important feature in enterprise systems. Considering the high system overheads of inline data reduction, estimating the amount of data reducability provides a strong insight on whether to enable deduplication + compression, deduplication-only, compression-only or none of them! A couple of existing open-source codes estimate data reduction at different layers. However, with two goals on mind, as part of a bigger project in 2021 at HPDS Research, we decided to prepare our own data reduction estimator to be: (1) easily expandable and modifiable code, (2) fast, and minimal system resource usage. 
    
    To address the above goals, we have coded an light-weight estimator in Python (rather than C or other difficult-to-debug/develop languages). Furthermore, we have fine-tuned our code to minimize the DRAM/CPU utilization, while providing a decent accuracy and speed.
    
