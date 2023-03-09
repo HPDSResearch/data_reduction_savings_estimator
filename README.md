@@ -46,7 +46,7 @@ Year: Last update year (e.g., 2023)
 # LICENSING and USAGE
 Please refer to USAGE file. A very brief description is as follows:
 This piece of software can be used free of charge for both academic and commercial purposes.
-If you modify the code, the original list of developpers must accompany your code.
+If you modify the code, the original list of developers must accompany your code.
 
 If you require any professional support or special customization on the code for your environment, please send an email to ajdari@hpds.ir  .
 
