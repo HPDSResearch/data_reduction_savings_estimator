@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 ############################################
-#Designed and developped by Mahdi Bahrami and Mohammadamin Ajdari at HPDS Research.
+#Designed and developed by Mahdi Bahrami and Mohammadamin Ajdari at HPDS Research.
 
 #Mahdi Bahrami: https://www.linkedin.com/in/mahdibahrami/
 #Mohammadamin Ajdari: https://www.linkedin.com/in/mohammadamin-ajdari-a392a5110/
